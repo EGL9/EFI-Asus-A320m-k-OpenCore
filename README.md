@@ -1,6 +1,6 @@
 # EFI OpenCore for Ryzentosh
 
-macOS Ventura/Sonoma with OpenCore 0.9.5 for Ryzen 5 5600/5600g and RX 570
+macOS Ventura/Sonoma with OpenCore 0.9.5 for Ryzen 5 5600 and RX 570
 
 # Specification
 
